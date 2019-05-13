@@ -14,4 +14,4 @@
 ## Ejecución  
 ### perl ssh_block.pl prog.conf  
 
-#### Actualmente el programa bloquea la IP identificada de hacer bruteforce al servicio SSH por 2 minutos, debido a especificaciones no se incluyo en el archivo de configurarción, pero se puede cambiar en la linea 99 del programa  
+#### Actualmente el programa bloquea la IP identificada de hacer bruteforce al servicio SSH por 2 minutos, debido a especificaciones no se incluyo en el archivo de configurarción, pero se puede cambiar en la linea 99 del programa (el tiempo está en segundos).  
